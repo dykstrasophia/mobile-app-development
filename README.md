@@ -1,6 +1,8 @@
 # mobile-app-development
 working through CSE438 and CSE439
+
 https://www.arl.wustl.edu/~todd/cse438/
+
 https://www.arl.wustl.edu/~todd/cse439/
 
 ## helpful links
